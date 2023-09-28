@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vue2-leaflet-polylineoffset": "^0.1.6"
+  }
+}

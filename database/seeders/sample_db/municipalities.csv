@@ -1,0 +1,1635 @@
+City or Municipalities,province_id
+Adams,1
+Bacarra,1
+Badoc,1
+Bangui,1
+Banna,1
+Batac,1
+Burgos,1
+Carasi,1
+Currimao,1
+Dingras,1
+Dumalneg,1
+Laoag,1
+Marcos,1
+Nueva Era,1
+Pagudpud,1
+Paoay,1
+Pasuquin,1
+Piddig,1
+Pinili,1
+San Nicolas,1
+Sarrat,1
+Solsona,1
+Vintar,1
+Alilem,2
+Banayoyo,2
+Bantay,2
+Burgos,2
+Cabugao,2
+Candon,2
+Caoayan,2
+Cervantes,2
+Galimuyod,2
+Gregorio del Pilar,2
+Lidlidda,2
+Magsingal,2
+Nagbukel,2
+Narvacan,2
+Quirino,2
+Salcedo,2
+San Emilio,2
+San Esteban,2
+San Ildefonso,2
+San Juan,2
+San Vicente,2
+Santa,2
+Santa Catalina,2
+Santa Cruz,2
+Santa Lucia,2
+Santa Maria,2
+Santiago,2
+Santo Domingo,2
+Sigay,2
+Sinait,2
+Sugpon,2
+Suyo,2
+Tagudin,2
+Vigan,2
+Agoo,3
+Aringay,3
+Bacnotan,3
+Bagulin,3
+Balaoan,3
+Bangar,3
+Bauang,3
+Burgos,3
+Caba,3
+Luna,3
+Naguilian,3
+Pugo,3
+Rosario,3
+San Fernando,3
+San Gabriel,3
+San Juan,3
+Santo Tomas,3
+Santol,3
+Sudipen,3
+Tubao,3
+Agno,4
+Aguilar,4
+Alaminos,4
+Alcala,4
+Anda,4
+Asingan,4
+Balungao,4
+Bani,4
+Basista,4
+Bautista,4
+Bayambang,4
+Binalonan,4
+Binmaley,4
+Bolinao,4
+Bugallon,4
+Burgos,4
+Calasiao,4
+Dagupan,4
+Dasol,4
+Infanta,4
+Labrador,4
+Laoac,4
+Lingayen,4
+Mabini,4
+Malasiqui,4
+Manaoag,4
+Mangaldan,4
+Mangatarem,4
+Mapandan,4
+Natividad,4
+Pozorrubio,4
+Rosales,4
+San Carlos,4
+San Fabian,4
+San Jacinto,4
+San Manuel,4
+San Nicolas,4
+San Quintin,4
+Santa Barbara,4
+Santa Maria,4
+Santo Tomas,4
+Sison,4
+Sual,4
+Tayug,4
+Umingan,4
+Urbiztondo,4
+Urdaneta,4
+Villasis,4
+Basco,5
+Itbayat,5
+Ivana,5
+Mahatao,5
+Sabtang,5
+Uyugan,5
+Abulug,6
+Alcala,6
+Allacapan,6
+Amulung,6
+Aparri,6
+Baggao,6
+Ballesteros,6
+Buguey,6
+Calayan,6
+Camalaniugan,6
+Claveria,6
+Enrile,6
+Gattaran,6
+Gonzaga,6
+Iguig,6
+Lal-lo,6
+Lasam,6
+Pamplona,6
+Penablanca,6
+Piat,6
+Rizal,6
+Sanchez-Mira,6
+Santa Ana,6
+Santa Praxedes,6
+Santa Teresita,6
+Santo Nino,6
+Solana,6
+Tuao,6
+Tuguegarao,6
+Alicia,7
+Angadanan,7
+Aurora,7
+Benito Soliven,7
+Burgos,7
+Cabagan,7
+Cabatuan,7
+Cauayan,7
+Cordon,7
+Delfin Albano,7
+Dinapigue,7
+Divilacan,7
+Echague,7
+Gamu,7
+Ilagan,7
+Jones,7
+Luna,7
+Maconacon,7
+Mallig,7
+Naguilian,7
+Palanan,7
+Quezon,7
+Quirino,7
+Ramon,7
+Reina Mercedes,7
+Roxas,7
+San Agustin,7
+San Guillermo,7
+San Isidro,7
+San Manuel,7
+San Mariano,7
+San Mateo,7
+San Pablo,7
+Santa Maria,7
+Santiago,7
+Santo Tomas,7
+Tumauini,7
+Alfonso Castaneda,8
+Ambaguio,8
+Aritao,8
+Bagabag,8
+Bambang,8
+Bayombong,8
+Diadi,8
+Dupax del Norte,8
+Dupax del Sur,8
+Kasibu,8
+Kayapa,8
+Quezon,8
+Santa Fe,8
+Solano,8
+Villaverde,8
+Aglipay,9
+Cabarroguis,9
+Diffun,9
+Maddela,9
+Nagtipunan,9
+Saguday,9
+Baler,10
+Casiguran,10
+Dilasag,10
+Dinalungan,10
+Dingalan,10
+Dipaculao,10
+Maria Aurora,10
+San Luis,10
+Abucay,11
+Bagac,11
+Balanga,11
+Dinalupihan,11
+Hermosa,11
+Limay,11
+Mariveles,11
+Morong,11
+Orani,11
+Orion,11
+Pilar,11
+Samal,11
+Angat,12
+Balagtas,12
+Baliwag,12
+Bocaue,12
+Bulakan,12
+Bustos,12
+Calumpit,12
+Dona Remedios Trinidad,12
+Guiguinto,12
+Hagonoy,12
+Malolos,12
+Marilao,12
+Meycauayan,12
+Norzagaray,12
+Obando,12
+Pandi,12
+Paombong,12
+Plaridel,12
+Pulilan,12
+San Ildefonso,12
+San Jose del Monte,12
+San Miguel,12
+San Rafael,12
+Santa Maria,12
+Aliaga,13
+Bongabon,13
+Cabanatuan,13
+Cabiao,13
+Carranglan,13
+Cuyapo,13
+Gabaldon,13
+Gapan,13
+General Mamerto Natividad,13
+General Tinio,13
+Guimba,13
+Jaen,13
+Laur,13
+Licab,13
+Llanera,13
+Lupao,13
+Munoz,13
+Nampicuan,13
+Palayan,13
+Pantabangan,13
+Penaranda,13
+Quezon,13
+Rizal,13
+San Antonio,13
+San Isidro,13
+San Jose,13
+San Leonardo,13
+Santa Rosa,13
+Santo Domingo,13
+Talavera,13
+Talugtug,13
+Zaragoza,13
+Angeles,14
+Apalit,14
+Arayat,14
+Bacolor,14
+Candaba,14
+Floridablanca,14
+Guagua,14
+Lubao,14
+Mabalacat,14
+Macabebe,14
+Magalang,14
+Masantol,14
+Mexico,14
+Minalin,14
+Porac,14
+San Fernando,14
+San Luis,14
+San Simon,14
+Santa Ana,14
+Santa Rita,14
+Santo Tomas,14
+Sasmuan,14
+Anao,15
+Bamban,15
+Camiling,15
+Capas,15
+Concepcion,15
+Gerona,15
+La Paz,15
+Mayantoc,15
+Moncada,15
+Paniqui,15
+Pura,15
+Ramos,15
+San Clemente,15
+San Jose,15
+San Manuel,15
+Santa Ignacia,15
+Tarlac City,15
+Victoria,15
+Botolan,16
+Cabangan,16
+Candelaria,16
+Castillejos,16
+Iba,16
+Masinloc,16
+Olongapo,16
+Palauig,16
+San Antonio,16
+San Felipe,16
+San Marcelino,16
+San Narciso,16
+Santa Cruz,16
+Subic,16
+Agoncillo,17
+Alitagtag,17
+Balayan,17
+Balete,17
+Batangas City,17
+Bauan,17
+Calaca,17
+Calatagan,17
+Cuenca,17
+Ibaan,17
+Laurel,17
+Lemery,17
+Lian,17
+Lipa,17
+Lobo,17
+Mabini,17
+Malvar,17
+Mataasnakahoy,17
+Nasugbu,17
+Padre Garcia,17
+Rosario,17
+San Jose,17
+San Juan,17
+San Luis,17
+San Nicolas,17
+San Pascual,17
+Santa Teresita,17
+Santo Tomas,17
+Taal,17
+Talisay,17
+Tanauan,17
+Taysan,17
+Tingloy,17
+Tuy,17
+Alfonso,18
+Amadeo,18
+Bacoor,18
+Carmona,18
+Cavite City,18
+Dasmarinas,18
+General Emilio Aguinaldo,18
+General Mariano Alvarez,18
+General Trias,18
+Imus,18
+Indang,18
+Kawit,18
+Magallanes,18
+Maragondon,18
+Mendez,18
+Naic,18
+Noveleta,18
+Rosario,18
+Silang,18
+Tagaytay,18
+Tanza,18
+Ternate,18
+Trece Martires,18
+Alaminos,19
+Bay,19
+Binan,19
+Cabuyao,19
+Calamba,19
+Calauan,19
+Cavinti,19
+Famy,19
+Kalayaan,19
+Liliw,19
+Los Banos,19
+Luisiana,19
+Lumban,19
+Mabitac,19
+Magdalena,19
+Majayjay,19
+Nagcarlan,19
+Paete,19
+Pagsanjan,19
+Pakil,19
+Pangil,19
+Pila,19
+Rizal,19
+San Pablo,19
+San Pedro,19
+Santa Cruz,19
+Santa Maria,19
+Santa Rosa,19
+Siniloan,19
+Victoria,19
+Agdangan,20
+Alabat,20
+Atimonan,20
+Buenavista,20
+Burdeos,20
+Calauag,20
+Candelaria,20
+Catanauan,20
+Dolores,20
+General Luna,20
+General Nakar,20
+Guinayangan,20
+Gumaca,20
+Infanta,20
+Jomalig,20
+Lopez,20
+Lucban,20
+Lucena,20
+Macalelon,20
+Mauban,20
+Mulanay,20
+Padre Burgos,20
+Pagbilao,20
+Panukulan,20
+Patnanungan,20
+Perez,20
+Pitogo,20
+Plaridel,20
+Polillo,20
+Quezon,20
+Real,20
+Sampaloc,20
+San Andres,20
+San Antonio,20
+San Francisco,20
+San Narciso,20
+Sariaya,20
+Tagkawayan,20
+Tayabas,20
+Tiaong,20
+Unisan,20
+Angono,21
+Antipolo,21
+Baras,21
+Binangonan,21
+Cainta,21
+Cardona,21
+Jalajala,21
+Morong,21
+Pililla,21
+Rodriguez,21
+San Mateo,21
+Tanay,21
+Taytay,21
+Teresa,21
+Boac,22
+Buenavista,22
+Gasan,22
+Mogpog,22
+Santa Cruz,22
+Torrijos,22
+Abra de Ilog,23
+Calintaan,23
+Looc,23
+Lubang,23
+Magsaysay,23
+Mamburao,23
+Paluan,23
+Rizal,23
+Sablayan,23
+San Jose,23
+Santa Cruz,23
+Baco,24
+Bansud,24
+Bongabong,24
+Bulalacao,24
+Calapan,24
+Gloria,24
+Mansalay,24
+Naujan,24
+Pinamalayan,24
+Pola,24
+Puerto Galera,24
+Roxas,24
+San Teodoro,24
+Socorro,24
+Victoria,24
+Aborlan,25
+Agutaya,25
+Araceli,25
+Balabac,25
+Bataraza,25
+Brooke's Point,25
+Busuanga,25
+Cagayancillo,25
+Coron,25
+Culion,25
+Cuyo,25
+Dumaran,25
+El Nido,25
+Kalayaan,25
+Linapacan,25
+Magsaysay,25
+Narra,25
+Puerto Princesa,25
+Quezon,25
+Rizal,25
+Roxas,25
+San Vicente,25
+Sofronio Espanola,25
+Taytay,25
+Alcantara,26
+Banton,26
+Cajidiocan,26
+Calatrava,26
+Concepcion,26
+Corcuera,26
+Ferrol,26
+Looc,26
+Magdiwang,26
+Odiongan,26
+Romblon,26
+San Agustin,26
+San Andres,26
+San Fernando,26
+San Jose,26
+Santa Fe,26
+Santa Maria,26
+Bacacay,27
+Camalig,27
+Daraga,27
+Guinobatan,27
+Jovellar,27
+Legazpi,27
+Libon,27
+Ligao,27
+Malilipot,27
+Malinao,27
+Manito,27
+Oas,27
+Pio Duran,27
+Polangui,27
+Rapu-Rapu,27
+Santo Domingo,27
+Tabaco,27
+Tiwi,27
+Basud,28
+Capalonga,28
+Daet,28
+Jose Panganiban,28
+Labo,28
+Mercedes,28
+Paracale,28
+San Lorenzo Ruiz,28
+San Vicente,28
+Santa Elena,28
+Talisay,28
+Vinzons,28
+Baao,29
+Balatan,29
+Bato,29
+Bombon,29
+Buhi,29
+Bula,29
+Cabusao,29
+Calabanga,29
+Camaligan,29
+Canaman,29
+Caramoan,29
+Del Gallego,29
+Gainza,29
+Garchitorena,29
+Goa,29
+Iriga,29
+Lagonoy,29
+Libmanan,29
+Lupi,29
+Magarao,29
+Milaor,29
+Minalabac,29
+Nabua,29
+Naga,29
+Ocampo,29
+Pamplona,29
+Pasacao,29
+Pili,29
+Presentacion,29
+Ragay,29
+Sagnay,29
+San Fernando,29
+San Jose,29
+Sipocot,29
+Siruma,29
+Tigaon,29
+Tinambac,29
+Bagamanoc,30
+Baras,30
+Bato,30
+Caramoran,30
+Gigmoto,30
+Pandan,30
+Panganiban,30
+San Andres,30
+San Miguel,30
+Viga,30
+Virac,30
+Aroroy,31
+Baleno,31
+Balud,31
+Batuan,31
+Cataingan,31
+Cawayan,31
+Claveria,31
+Dimasalang,31
+Esperanza,31
+Mandaon,31
+Masbate City,31
+Milagros,31
+Mobo,31
+Monreal,31
+Palanas,31
+Pio V. Corpuz,31
+Placer,31
+San Fernando,31
+San Jacinto,31
+San Pascual,31
+Uson,31
+Barcelona,32
+Bulan,32
+Bulusan,32
+Casiguran,32
+Castilla,32
+Donsol,32
+Gubat,32
+Irosin,32
+Juban,32
+Magallanes,32
+Matnog,32
+Pilar,32
+Prieto Diaz,32
+Santa Magdalena,32
+Sorsogon City,32
+Altavas,33
+Balete,33
+Banga,33
+Batan,33
+Buruanga,33
+Ibajay,33
+Kalibo,33
+Lezo,33
+Libacao,33
+Madalag,33
+Makato,33
+Malay,33
+Malinao,33
+Nabas,33
+New Washington,33
+Numancia,33
+Tangalan,33
+Anini-y,34
+Barbaza,34
+Belison,34
+Bugasong,34
+Caluya,34
+Culasi,34
+Hamtic,34
+Laua-an,34
+Libertad,34
+Pandan,34
+Patnongon,34
+San Jose de Buenavista,34
+San Remigio,34
+Sebaste,34
+Sibalom,34
+Tibiao,34
+Tobias Fornier,34
+Valderrama,34
+Cuartero,35
+Dao,35
+Dumalag,35
+Dumarao,35
+Ivisan,35
+Jamindan,35
+Ma-ayon,35
+Mambusao,35
+Panay,35
+Panitan,35
+Pilar,35
+Pontevedra,35
+President Roxas,35
+Roxas,35
+Sapian,35
+Sigma,35
+Tapaz,35
+Buenavista,36
+Jordan,36
+Nueva Valencia,36
+San Lorenzo,36
+Sibunag,36
+Ajuy,37
+Alimodian,37
+Anilao,37
+Badiangan,37
+Balasan,37
+Banate,37
+Barotac Nuevo,37
+Barotac Viejo,37
+Batad,37
+Bingawan,37
+Cabatuan,37
+Calinog,37
+Carles,37
+Concepcion,37
+Dingle,37
+Duenas,37
+Dumangas,37
+Estancia,37
+Guimbal,37
+Igbaras,37
+Iloilo City,37
+Janiuay,37
+Lambunao,37
+Leganes,37
+Lemery,37
+Leon,37
+Maasin,37
+Miagao,37
+Mina,37
+New Lucena,37
+Oton,37
+Passi,37
+Pavia,37
+Pototan,37
+San Dionisio,37
+San Enrique,37
+San Joaquin,37
+San Miguel,37
+San Rafael,37
+Santa Barbara,37
+Sara,37
+Tigbauan,37
+Tubungan,37
+Zarraga,37
+Bacolod,38
+Bago,38
+Binalbagan,38
+Cadiz,38
+Calatrava,38
+Candoni,38
+Cauayan,38
+Enrique B. Magalona,38
+Escalante,38
+Himamaylan,38
+Hinigaran,38
+Hinoba-an,38
+Ilog,38
+Isabela,38
+Kabankalan,38
+La Carlota,38
+La Castellana,38
+Manapla,38
+Moises Padilla,38
+Murcia,38
+Pontevedra,38
+Pulupandan,38
+Sagay,38
+Salvador Benedicto,38
+San Carlos,38
+San Enrique,38
+Silay,38
+Sipalay,38
+Talisay,38
+Toboso,38
+Valladolid,38
+Victorias,38
+Alburquerque,39
+Alicia,39
+Anda,39
+Antequera,39
+Baclayon,39
+Balilihan,39
+Batuan,39
+Bien Unido,39
+Bilar,39
+Buenavista,39
+Calape,39
+Candijay,39
+Carmen,39
+Catigbian,39
+Clarin,39
+Corella,39
+Cortes,39
+Dagohoy,39
+Danao,39
+Dauis,39
+Dimiao,39
+Duero,39
+Garcia Hernandez,39
+Getafe,39
+Guindulman,39
+Inabanga,39
+Jagna,39
+Lila,39
+Loay,39
+Loboc,39
+Loon,39
+Mabini,39
+Maribojoc,39
+Panglao,39
+Pilar,39
+President Carlos P. Garcia,39
+Sagbayan,39
+San Isidro,39
+San Miguel,39
+Sevilla,39
+Sierra Bullones,39
+Sikatuna,39
+Tagbilaran,39
+Talibon,39
+Trinidad,39
+Tubigon,39
+Ubay,39
+Valencia,39
+Alcantara,40
+Alcoy,40
+Alegria,40
+Aloguinsan,40
+Argao,40
+Asturias,40
+Badian,40
+Balamban,40
+Bantayan,40
+Barili,40
+Bogo,40
+Boljoon,40
+Borbon,40
+Carcar,40
+Carmen,40
+Catmon,40
+Cebu City,40
+Compostela,40
+Consolacion,40
+Cordova,40
+Daanbantayan,40
+Dalaguete,40
+Danao,40
+Dumanjug,40
+Ginatilan,40
+Lapu-Lapu,40
+Liloan,40
+Madridejos,40
+Malabuyoc,40
+Mandaue,40
+Medellin,40
+Minglanilla,40
+Moalboal,40
+Naga,40
+Oslob,40
+Pilar,40
+Pinamungajan,40
+Poro,40
+Ronda,40
+Samboan,40
+San Fernando,40
+San Francisco,40
+San Remigio,40
+Santa Fe,40
+Santander,40
+Sibonga,40
+Sogod,40
+Tabogon,40
+Tabuelan,40
+Talisay,40
+Toledo,40
+Tuburan,40
+Tudela,40
+Amlan,41
+Ayungon,41
+Bacong,41
+Bais,41
+Basay,41
+Bayawan,41
+Bindoy,41
+Canlaon,41
+Dauin,41
+Dumaguete,41
+Guihulngan,41
+Jimalalud,41
+La Libertad,41
+Mabinay,41
+Manjuyod,41
+Pamplona,41
+San Jose,41
+Santa Catalina,41
+Siaton,41
+Sibulan,41
+Tanjay,41
+Tayasan,41
+Valencia,41
+Vallehermoso,41
+Zamboanguita,41
+Enrique Villanueva,42
+Larena,42
+Lazi,42
+Maria,42
+San Juan,42
+Siquijor,42
+Almeria,43
+Biliran,43
+Cabucgayan,43
+Caibiran,43
+Culaba,43
+Kawayan,43
+Maripipi,43
+Naval,43
+Arteche,44
+Balangiga,44
+Balangkayan,44
+Borongan,44
+Can-avid,44
+Dolores,44
+General MacArthur,44
+Giporlos,44
+Guiuan,44
+Hernani,44
+Jipapad,44
+Lawaan,44
+Llorente,44
+Maslog,44
+Maydolong,44
+Mercedes,44
+Oras,44
+Quinapondan,44
+Salcedo,44
+San Julian,44
+San Policarpo,44
+Sulat,44
+Taft,44
+Abuyog,45
+Alangalang,45
+Albuera,45
+Babatngon,45
+Barugo,45
+Bato,45
+Baybay,45
+Burauen,45
+Calubian,45
+Capoocan,45
+Carigara,45
+Dagami,45
+Dulag,45
+Hilongos,45
+Hindang,45
+Inopacan,45
+Isabel,45
+Jaro,45
+Javier,45
+Julita,45
+Kananga,45
+La Paz,45
+Leyte,45
+MacArthur,45
+Mahaplag,45
+Matag-ob,45
+Matalom,45
+Mayorga,45
+Merida,45
+Ormoc,45
+Palo,45
+Palompon,45
+Pastrana,45
+San Isidro,45
+San Miguel,45
+Santa Fe,45
+Tabango,45
+Tabontabon,45
+Tacloban,45
+Tanauan,45
+Tolosa,45
+Tunga,45
+Villaba,45
+Allen,46
+Biri,46
+Bobon,46
+Capul,46
+Catarman,46
+Catubig,46
+Gamay,46
+Laoang,46
+Lapinig,46
+Las Navas,46
+Lavezares,46
+Lope de Vega,46
+Mapanas,46
+Mondragon,46
+Palapag,46
+Pambujan,46
+Rosario,46
+San Antonio,46
+San Isidro,46
+San Jose,46
+San Roque,46
+San Vicente,46
+Silvino Lobos,46
+Victoria,46
+Almagro,47
+Basey,47
+Calbayog,47
+Calbiga,47
+Catbalogan,47
+Daram,47
+Gandara,47
+Hinabangan,47
+Jiabong,47
+Marabut,47
+Matuguinao,47
+Motiong,47
+Pagsanghan,47
+Paranas,47
+Pinabacdao,47
+San Jorge,47
+San Jose de Buan,47
+San Sebastian,47
+Santa Margarita,47
+Santa Rita,47
+Santo Nino,47
+Tagapul-an,47
+Talalora,47
+Tarangnan,47
+Villareal,47
+Zumarraga,47
+Anahawan,48
+Bontoc,48
+Hinunangan,48
+Hinundayan,48
+Libagon,48
+Liloan,48
+Limasawa,48
+Maasin,48
+Macrohon,48
+Malitbog,48
+Padre Burgos,48
+Pintuyan,48
+Saint Bernard,48
+San Francisco,48
+San Juan,48
+San Ricardo,48
+Silago,48
+Sogod,48
+Tomas Oppus,48
+Baliguian,49
+Dapitan,49
+Dipolog,49
+Godod,49
+Gutalac,49
+Jose Dalman,49
+Kalawit,49
+Katipunan,49
+La Libertad,49
+Labason,49
+Leon B. Postigo,49
+Liloy,49
+Manukan,49
+Mutia,49
+Pinan,49
+Polanco,49
+Rizal,49
+Roxas,49
+Salug,49
+Sergio Osmena,49
+Siayan,49
+Sibuco,49
+Sibutad,49
+Sindangan,49
+Siocon,49
+Sirawai,49
+Tampilisan,49
+Aurora,50
+Bayog,50
+Dimataling,50
+Dinas,50
+Dumalinao,50
+Dumingag,50
+Guipos,50
+Josefina,50
+Kumalarang,50
+Labangan,50
+Lakewood,50
+Lapuyan,50
+Mahayag,50
+Margosatubig,50
+Midsalip,50
+Molave,50
+Pagadian,50
+Pitogo,50
+Ramon Magsaysay,50
+San Miguel,50
+San Pablo,50
+Sominot,50
+Tabina,50
+Tambulig,50
+Tigbao,50
+Tukuran,50
+Vincenzo A. Sagun,50
+Zamboanga City,50
+Alicia,51
+Buug,51
+Diplahan,51
+Imelda,51
+Ipil,51
+Kabasalan,51
+Mabuhay,51
+Malangas,51
+Naga,51
+Olutanga,51
+Payao,51
+Roseller Lim,51
+Siay,51
+Talusan,51
+Titay,51
+Tungawan,51
+Baungon,52
+Cabanglasan,52
+Damulog,52
+Dangcagan,52
+Don Carlos,52
+Impasugong,52
+Kadingilan,52
+Kalilangan,52
+Kibawe,52
+Kitaotao,52
+Lantapan,52
+Libona,52
+Malaybalay,52
+Malitbog,52
+Manolo Fortich,52
+Maramag,52
+Pangantucan,52
+Quezon,52
+San Fernando,52
+Sumilao,52
+Talakag,52
+Valencia,52
+Catarman,53
+Guinsiliban,53
+Mahinog,53
+Mambajao,53
+Sagay,53
+Bacolod,54
+Balo-i,54
+Baroy,54
+Iligan,54
+Kapatagan,54
+Kauswagan,54
+Kolambugan,54
+Lala,54
+Linamon,54
+Magsaysay,54
+Maigo,54
+Matungao,54
+Munai,54
+Nunungan,54
+Pantao Ragat,54
+Pantar,54
+Poona Piagapo,54
+Salvador,54
+Sapad,54
+Sultan Naga Dimaporo,54
+Tagoloan,54
+Tangcal,54
+Tubod,54
+Aloran,55
+Baliangao,55
+Bonifacio,55
+Calamba,55
+Clarin,55
+Concepcion,55
+Don Victoriano Chiongbian,55
+Jimenez,55
+Lopez Jaena,55
+Oroquieta,55
+Ozamiz,55
+Panaon,55
+Plaridel,55
+Sapang Dalaga,55
+Sinacaban,55
+Tangub,55
+Tudela,55
+Alubijid,56
+Balingasag,56
+Balingoan,56
+Binuangan,56
+Cagayan de Oro,56
+Claveria,56
+El Salvador,56
+Gingoog,56
+Gitagum,56
+Initao,56
+Jasaan,56
+Kinoguitan,56
+Lagonglong,56
+Laguindingan,56
+Libertad,56
+Lugait,56
+Magsaysay,56
+Manticao,56
+Medina,56
+Naawan,56
+Opol,56
+Salay,56
+Sugbongcogon,56
+Tagoloan,56
+Talisayan,56
+Villanueva,56
+Compostela,57
+Laak,57
+Mabini,57
+Maco,57
+Maragusan,57
+Mawab,57
+Monkayo,57
+Montevista,57
+Nabunturan,57
+New Bataan,57
+Pantukan,57
+Asuncion,58
+Braulio E. Dujali,58
+Carmen,58
+Kapalong,58
+New Corella,58
+Panabo,58
+Samal,58
+San Isidro,58
+Santo Tomas,58
+Tagum,58
+Talaingod,58
+Bansalan,59
+Davao City,59
+Digos,59
+Hagonoy,59
+Kiblawan,59
+Magsaysay,59
+Malalag,59
+Matanao,59
+Padada,59
+Santa Cruz,59
+Sulop,59
+Don Marcelino,60
+Jose Abad Santos,60
+Malita,60
+Santa Maria,60
+Sarangani,60
+Baganga,61
+Banaybanay,61
+Boston,61
+Caraga,61
+Cateel,61
+Governor Generoso,61
+Lupon,61
+Manay,61
+Mati,61
+San Isidro,61
+Tarragona,61
+Alamada,62
+Aleosan,62
+Antipas,62
+Arakan,62
+Banisilan,62
+Carmen,62
+Kabacan,62
+Kidapawan,62
+Libungan,62
+M'lang,62
+Magpet,62
+Makilala,62
+Matalam,62
+Midsayap,62
+Pigcawayan,62
+Pikit,62
+President Roxas,62
+Tulunan,62
+Alabel,63
+Glan,63
+Kiamba,63
+Maasim,63
+Maitum,63
+Malapatan,63
+Malungon,63
+Banga,64
+General Santos,64
+Koronadal,64
+Lake Sebu,64
+Norala,64
+Polomolok,64
+Santo Nino,64
+Surallah,64
+T'Boli,64
+Tampakan,64
+Tantangan,64
+Tupi,64
+Bagumbayan,65
+Columbio,65
+Esperanza,65
+Isulan,65
+Kalamansig,65
+Lambayong,65
+Lebak,65
+Lutayan,65
+Palimbang,65
+President Quirino,65
+Senator Ninoy Aquino,65
+Tacurong,65
+Buenavista,66
+Butuan,66
+Cabadbaran,66
+Carmen,66
+Jabonga,66
+Kitcharao,66
+Las Nieves,66
+Magallanes,66
+Nasipit,66
+Remedios T. Romualdez,66
+Santiago,66
+Tubay,66
+Bayugan,67
+Bunawan,67
+Esperanza,67
+La Paz,67
+Loreto,67
+Prosperidad,67
+Rosario,67
+San Francisco,67
+San Luis,67
+Santa Josefa,67
+Sibagat,67
+Talacogon,67
+Trento,67
+Veruela,67
+Basilisa,68
+Cagdianao,68
+Dinagat,68
+Libjo,68
+Loreto,68
+San Jose,68
+Tubajon,68
+Alegria,69
+Bacuag,69
+Burgos,69
+Claver,69
+Dapa,69
+Del Carmen,69
+General Luna,69
+Gigaquit,69
+Mainit,69
+Malimono,69
+Pilar,69
+Placer,69
+San Benito,69
+San Francisco,69
+San Isidro,69
+Santa Monica,69
+Sison,69
+Socorro,69
+Surigao City,69
+Tagana-an,69
+Tubod,69
+Barobo,70
+Bayabas,70
+Bislig,70
+Cagwait,70
+Cantilan,70
+Carmen,70
+Carrascal,70
+Cortes,70
+Hinatuan,70
+Lanuza,70
+Lianga,70
+Lingig,70
+Madrid,70
+Marihatag,70
+San Agustin,70
+San Miguel,70
+Tagbina,70
+Tago,70
+Tandag,70
+Caloocan,71
+Las Pinas,71
+Makati,71
+Malabon,71
+Mandaluyong,71
+Manila,71
+Marikina,71
+Muntinlupa,71
+Navotas,71
+Paranaque,71
+Pasay,71
+Pasig,71
+Pateros,71
+Quezon City,71
+San Juan,71
+Taguig,71
+Valenzuela,71
+Bangued,72
+Boliney,72
+Bucay,72
+Bucloc,72
+Daguioman,72
+Danglas,72
+Dolores,72
+La Paz,72
+Lacub,72
+Lagangilang,72
+Lagayan,72
+Langiden,72
+Licuan-Baay,72
+Luba,72
+Malibcong,72
+Manabo,72
+Penarrubia,72
+Pidigan,72
+Pilar,72
+Sallapadan,72
+San Isidro,72
+San Juan,72
+San Quintin,72
+Tayum,72
+Tineg,72
+Tubo,72
+Villaviciosa,72
+Calanasan,73
+Conner,73
+Flora,73
+Kabugao,73
+Luna,73
+Pudtol,73
+Santa Marcela,73
+Atok,74
+Baguio,74
+Bakun,74
+Bokod,74
+Buguias,74
+Itogon,74
+Kabayan,74
+Kapangan,74
+Kibungan,74
+La Trinidad,74
+Mankayan,74
+Sablan,74
+Tuba,74
+Tublay,74
+Aguinaldo,75
+Alfonso Lista,75
+Asipulo,75
+Banaue,75
+Hingyon,75
+Hungduan,75
+Kiangan,75
+Lagawe,75
+Lamut,75
+Mayoyao,75
+Tinoc,75
+Balbalan,76
+Lubuagan,76
+Pasil,76
+Pinukpuk,76
+Rizal,76
+Tabuk,76
+Tanudan,76
+Tinglayan,76
+Barlig,77
+Bauko,77
+Besao,77
+Bontoc,77
+Natonin,77
+Paracelis,77
+Sabangan,77
+Sadanga,77
+Sagada,77
+Tadian,77
+Akbar,78
+Hadji Mohammad Ajul,78
+Hadji Muhtamad,78
+Isabela,78
+Lamitan,78
+Lantawan,78
+Maluso,78
+Sumisip,78
+Tabuan-Lasa,78
+Tipo-Tipo,78
+Tuburan,78
+Ungkaya Pukan,78
+Amai Manabilang,79
+Bacolod-Kalawi,79
+Balabagan,79
+Balindong,79
+Bayang,79
+Binidayan,79
+Buadiposo-Buntong,79
+Bubong,79
+Butig,79
+Calanogas,79
+Ditsaan-Ramain,79
+Ganassi,79
+Kapai,79
+Kapatagan,79
+Lumba-Bayabao,79
+Lumbaca-Unayan,79
+Lumbatan,79
+Lumbayanague,79
+Madalum,79
+Madamba,79
+Maguing,79
+Malabang,79
+Marantao,79
+Marawi,79
+Marogong,79
+Masiu,79
+Mulondo,79
+Pagayawan,79
+Piagapo,79
+Picong,79
+Poona Bayabao,79
+Pualas,79
+Saguiaran,79
+Sultan Dumalondong,79
+Tagoloan II,79
+Tamparan,79
+Taraka,79
+Tubaran,79
+Tugaya,79
+Wao,79
+Ampatuan,80
+Barira,80
+Buldon,80
+Buluan,80
+Cotabato City,80
+Datu Abdullah Sangki,80
+Datu Anggal Midtimbang,80
+Datu Blah T. Sinsuat,80
+Datu Hoffer Ampatuan,80
+Datu Montawal,80
+Datu Odin Sinsuat,80
+Datu Paglas,80
+Datu Piang,80
+Datu Salibo,80
+Datu Saudi-Ampatuan,80
+Datu Unsay,80
+General Salipada K. Pendatun,80
+Guindulungan,80
+Kabuntalan,80
+Mamasapano,80
+Mangudadatu,80
+Matanog,80
+Northern Kabuntalan,80
+Pagalungan,80
+Paglat,80
+Pandag,80
+Parang,80
+Rajah Buayan,80
+Shariff Aguak,80
+Shariff Saydona Mustapha,80
+South Upi,80
+Sultan Kudarat,80
+Sultan Mastura,80
+Sultan sa Barongis,80
+Sultan Sumagka,80
+Talayan,80
+Upi,80
+Banguingui,81
+Hadji Panglima Tahil,81
+Indanan,81
+Jolo,81
+Kalingalan Caluang,81
+Lugus,81
+Luuk,81
+Maimbung,81
+Omar,81
+Panamao,81
+Pandami,81
+Panglima Estino,81
+Pangutaran,81
+Parang,81
+Pata,81
+Patikul,81
+Siasi,81
+Talipao,81
+Tapul,81
+Bongao,82
+Languyan,82
+Mapun,82
+Panglima Sugala,82
+Sapa-Sapa,82
+Sibutu,82
+Simunul,82
+Sitangkai,82
+South Ubian,82
+Tandubas,82
+Turtle Islands,82
+Al-Barka,82

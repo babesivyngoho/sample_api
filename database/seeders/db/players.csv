@@ -1,0 +1,472 @@
+"id","created_at","updated_at","name","type","address","description","vc_segment","barangay_id","data_source","municipality_id"
+"1","2022-01-10 09:05:34","2022-02-09 11:47:06","Cabarasan Guti Rice Farmers Association","organization","Cabarasan Guti, Palo, Leyte","Name of President: Rogie C. Venigas; 
+Contact Number: 09464353444;
+Number of Members: 25;
+Status of the Association: Active/
+DOLE Registration Number: RO8-NLFO-2019-11-WA-1767;
+Year Organized: 2015;
+Production Area: 426,600 sq.m","producer","26477","Palo Local Government Unit; Palo Municipal Agriculturist's Office","996"
+"2","2022-01-10 09:11:44","2022-02-09 11:47:31","Tacuranga Farmers Association","organization","Tacuranga, Palo, Leyte","Name of President: Gerry P. Barbosa;
+Contact Number: 09205178162;
+Number of Members: 23;
+Status of the Association: Active;
+DOLE Registration Number: RO8-NLFO-2016-07-WA-972;
+Year Organized: 2016;
+Production Area: 264,000 sq.m","producer","26502","LGU Palo Municipal Agriculturist's Office","996"
+"3","2022-01-10 09:15:29","2022-02-09 11:52:43","Teraza Palayamanan Integrated Farmers Association","organization","Teraza, Palo, Leyte","Name of President: Gerry C. Aragon;
+Contact Number: 09123061369;
+Number of Members: 34;
+Status of the Association: Active;
+DOLE Registration Number: RO8-NLFO-2019-09-WA-1727;
+Year Organized: 2019;
+Production Area: 528,000 sq.m","producer","26503","LGU Palo Municipal Agriculturist's Office","996"
+"4","2022-01-10 09:18:48","2022-02-09 11:47:56","Cogon Coconut Integrated Farming System Association","organization","Cogon, Palo, Leyte","Name of President: Dr. Alfredo F. Guevara;
+Contact Number: 09185396218;
+Number of Members: 16;
+Status of the Association: Active;
+DOLE Registration Number: RO800-15-08-RWA-528;
+Year Organized: 2015;
+Production Area: 3,000 sq.m","producer","26484","LGU Palo Municipal Agriculturist's Office","996"
+"5","2022-01-10 09:36:53","2022-02-09 11:50:52","Sambayanan ni San Benito Livelihood Association","individual","Libertad, Palo, Leyte","Name of President: Jesus Catantan;
+Contact Number: Jesus Catantan;
+Number of Members: 30;
+Status of the Association: Active;
+DOLE Registration Number: RO8-NLFO-2017-07-WA-1382;
+Year Organized: 2017;
+Production Area: 12,000 sq.m","producer","26487","LGU Palo Municipal Agriculturist's Office","996"
+"6","2022-01-10 09:42:54","2022-02-09 11:48:30","St. Anthony Integrated Farmers Association","organization","San Antonio, Palo, Leyte","Name of President: Ruel Regis;
+Contact Number: 0939527395;
+Number of Members: 25;
+Status of Association: Active;
+DOLE Registration Number: RO800-NLFO-15-03-RWA-328;
+Year Organized: 2015;
+Production Area: 987,000 sq.m","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"7","2022-01-10 09:45:48","2022-02-09 11:48:43","Kapirawan Senior Citizen Farmers Association","organization","Capirawan, Palo, Leyte","Name of President: Primo Regis;
+Contact Number: 09482365959;
+Number of Members: 31;
+Status of the Association: Active;
+DOLE Registration Number: RO800-NLFO-15-09-RWA-627;
+Year Organized: 2015;
+Production Area: 2,000 sq.m","producer","26482","LGU Palo Municipal Agriculturist's Office","996"
+"8","2022-01-10 09:54:51","2022-02-09 11:49:27","Cabarasan Daku Parents Agri-Farmers Association","organization","Cabarasan Daku, Palo, Leyte","Name of President: Michelle B. Palabio;
+Contact Number: 09104474051;
+Number of Members: 25;
+Status of the Association: Active;
+DOLE Registration Number: RO800-NLFO-15-07-RWA-449;
+Year Organized: 2015;
+Production Area: 11,000 sq.m","producer","26476","LGU Palo Municipal Agriculturist's Office","996"
+"9","2022-01-10 09:57:10","2022-02-09 11:50:14","Camaysihay Gacao Organic Farmers Association","organization","Gacao, Palo, Leyte","Name of President: Normando C. Margallo;
+Contact Number: 09158328731;
+Number of Members: 28;
+Status of the Association: Active;
+DOLE Registration Number: RO8-NLFO-2016-12-WA-1166;
+Year Organized: 2016;
+Production Area: 260,000 sq.m","producer","26485","LGU Palo Municipal Agriculturist's Office","996"
+"10","2022-01-10 09:59:55","2022-02-09 11:49:06","Gacao Women Vegetable Association","organization","Gacao, Palo, Leyte","Name of President: Erlinda S. Cabilic;
+Contact Number: 09192245898;
+Number of Members: 20;
+Status of the Association: Active;
+DOLE Registration Number: RO800-NLFO-15-03-WA-306;
+Year Organized: 2015;
+Production Area: 3,000 sq.m","producer","26485","LGU Palo Municipal Agriculturist's Office","996"
+"11","2022-01-10 10:02:55","2022-02-09 11:50:59","Libertad Farmers Association","organization","Libertad, Palo, Leyte","Name of President: Eleonor Alma Tumanon;
+Contact Number: 09218019376;
+Number of Members: 31;
+Status of the Association: Active;
+DOLE Registration Number: RO8-NLFO-2015-WA-786;
+Year Organized: 2015;
+Production Area: 1,500 sq. m","producer","26487","LGU Palo Municipal Agriculturist's Office","996"
+"12","2022-01-10 10:08:50","2022-02-09 11:51:26","Canossa Ville Integrated Home-Based Farmers Association","organization","Castilla, Palo, Leyte","Name of President: Dentlin Armeño;
+Contact Number: 09505878755;
+Number of Members: 26;
+Status of the Association: Active;
+DOLE Registration Number: RO8-NLFO-2016-10-WA-1090;
+Year Organized: 2016;
+Production Area: 3,000 sq.m","producer","26483","LGU Palo Municipal Agriculturist's Office","996"
+"13","2022-01-10 10:11:51","2022-02-09 11:53:50","Guindapunan Small Coconut Farmers Association","organization","Guindapunan, Palo, Leyte","Name of President: Mario Alcasid;
+Contact Number: 09363256436;
+Number of Members: 30;
+Status of the Association: Active;
+DOLE Registration Number: RO800-NLFO-14-12-RWA-222;
+Year Organized: 2014;
+Production Area: 14,000 sq.m","producer","26486","LGU Palo Municipal Agriculturist's Office","996"
+"14","2022-01-10 10:19:36","2022-02-09 11:52:52","Kusog Teraza Integrated Farmers Association","organization","Teraza, Palo, Leyte","Name of President: Roberto Malbas;
+Contact Number: 09613388543;
+Number of Members: 36
+Status of the Association: Active/
+DOLE Registration Number: RO800-15-02-RWA-284/
+Year Organized: 2015/
+Production Area: 10,000 sq.m","producer","26503","LGU Palo Municipal Agriculturist's Office","996"
+"15","2022-01-10 10:22:15","2022-02-09 11:53:27","San Jose Integrated Agri-Venture Farmers Association","organization","Arado, Palo, Leyte","Name of President: Cherill C. Rodriguez;
+Contact Number: 09474975173;
+Number of Members: 0;
+Status of the Association: Inactive;
+DOLE Registration Number: RO800-15-07-RWA-417;
+Year Organized: 2015;
+Production Area: 4,000 sq.m","producer","26473","LGU Palo Municipal Agriculturist's Office","996"
+"16","2022-01-10 11:07:52","2022-02-09 11:54:07","Barayong Cacao Farmers Association","organization","Barayong, Palo, Leyte","Name of President: Evelina Militante;
+Contact Number: 09464873897;
+Number of Members: 0;
+Status of the Association: Inactive;
+DOLE Registration Number: RO8-NLFO-2017-02-WA-1214;
+Year Organized: 2017;
+Production Area: 285,000 sq.m","producer","26475","LGU Palo Municipal Agriculturist's Office","996"
+"17","2022-01-10 11:10:31","2022-02-09 11:54:30","Uswag Parag-Uma Organization","organization","Libertad, Palo, Leyte","Name of President: Anacorita Maglinte;
+Contact Number: 09756425048;
+Number of Members: 17;
+Status of the Association: Active;
+DOLE Registration Number: RO8-NLFO-2018-07-WA-1546;
+Year Organized: 2018;
+Production Area: 200,000 sq.m","producer","26487","LGU Palo Municipal Agriculturist's Office","996"
+"18","2022-01-10 11:13:06","2022-02-09 11:54:44","Marriage Encounter Integrated Farmers Association","organization","Capirawan, Palo, Leyte","Name of President: Wilfredo Castañares;
+Contact Number: 09465289834;
+Number of Members: 31;
+Status of the Association: Active;
+DOLE Registration Number: RO800-NLFO-13-05-RWA-442;
+Year Organized: 2013;
+Production Area: 665,000 sq.m","producer","26482","LGU Palo Municipal Agriculturist's Office","996"
+"19","2022-01-10 11:23:45","2022-02-09 11:56:01","Palo Agri-Business Enterprise Farmers Association","organization","Castilla, Palo, Leyte","Name of President: Fernando M. Bretenia;
+Contact Number: 09156957473;
+Number of Members: 33;
+Status of the Association: Active","producer","26483","LGU Palo Municipal Agriculturist's Office","996"
+"20","2022-01-10 11:24:59","2022-02-09 11:55:04","Project Life Cabarasan Daku Elementary School","organization","Cabarasan Daku, Palo, Leyte","Name of President: Gary Mosquito;
+Contact Number: 09167402073;
+Number of Members: 50;
+Status of the Association: Active","producer","26476","LGU Palo Municipal Agriculturist's Office","996"
+"21","2022-01-10 11:26:12","2022-02-09 11:55:18","Pope Francis Village Home Based Workers Association","organization","Arado, Palo, Leyte","Name of President: Teofaney Bioco;
+Contact Number: 09357360940;
+Number of Members: 26;
+Status of the Association: Active","producer","26473","LGU Palo Municipal Agriculturist's Office","996"
+"22","2022-01-10 11:27:53","2022-02-09 11:52:28","Palo Skilled Workers Integrated Farmers Association","organization","Castilla, Palo, Leyte","Name of President: Gilbert Macanip;
+Contact Number: 09105147728;
+Number of Members: 20;
+Status of the Association: Active","producer","26483","LGU Palo Municipal Agriculturist's Office","996"
+"23","2022-01-10 11:29:04","2022-02-09 11:55:34","Great Love Outreach Incorporated","organization","San Jose, Palo, Leyte","Name of President: Randy Militante;
+Contact Number: 09219366965;
+Status of the Association: Active","producer","26500","LGU Palo Municipal Agriculturist's Office","996"
+"24","2022-01-10 11:30:02","2022-02-09 11:57:10","Palo Integrated Organic Farming Farmers and Fisherfolk Association","organization","San Isidro, Palo, Leyte","Name of President: Amancio Pajares;
+Number of Members: 28;
+Status of the Association: Active;
+DOLE Registration Number: On Process","producer","26498","LGU Palo Municipal Agriculturist's Office","996"
+"25","2022-01-10 11:32:35","2022-02-09 11:56:19","Barangay Canhidoc Zone 1 - Vendors Association","organization","Canhidoc, Palo, Leyte","Name of President: Ricardo S. Martinez;
+Contact Number: 09197831415;
+Number of Members: 30;
+Status of the Association: Active","producer","26481","LGU Palo Municipal Agriculturist's Office","996"
+"26","2022-01-10 11:33:52","2022-02-09 11:56:36","Cangumbang Agrarian Reform Cooperative","organization","Cangumbang, Palo, Leyte","Name of President: Edgard M. Montuya;
+Contact Number: 09485057084;
+Status of the Association: Active","producer","26480","LGU Palo Municipal Agriculturist's Office","996"
+"27","2022-01-10 11:35:56","2022-02-09 11:56:52","TRIPLE C Irrigators Association","organization","Capirawan, Palo, Leyte","Name of President: Edgardo Bartoline;
+Contact Number: 09093671136;
+Number of Members: 283;
+Status of the Association: Active;
+DOLE Registration Number: CN201510961;
+Year Organized: 2015;
+Production Area: 4,362,500 sq.m","producer","26482","LGU Palo Municipal Agriculturist's Office","996"
+"28","2022-01-10 11:37:17","2022-02-09 11:51:54","Gintong Samahan Irrigators Association","organization","Castilla, Palo, Leyte","Name of President: Ernesto Yu;
+Status of the Association: Active","producer","26483","LGU Palo Municipal Agriculturist's Office","996"
+"29","2022-01-10 11:38:12","2022-02-09 11:57:26","KASAGANAHAN Irrigators Association","organization","San Isidro, Palo, Leyte","Name of President: Ditas dela Peña;
+Status of the Association: Active","producer","26498","LGU Palo Municipal Agriculturist's Office","996"
+"30","2022-01-10 11:40:15","2022-02-09 11:57:54","Tibak, San isidro, Libertad, Milagrosa, Badiangay Irrigators Association","organization","Milagrosa, Santa Fe, Leyte","Name of President: Ma. Lourdes Montilla;
+Contact Number: 09461419044;
+Number of Members: 193;
+Status of the Association: Active;
+DOLE Registration Number: CN201326135;
+Year Organized: 2013;
+Production Area: 3,390,000 sq.m","producer","26629","LGU Palo Municipal Agriculturist's Office","1001"
+"31","2022-01-10 11:42:04","2022-02-09 11:58:09","Canmamotong, Cutay, Victoria Irrigators Association","organization","Cutay, Santa Fe, Leyte","Name of President: Felicisima Aguipo;
+Status of the Association: Active","producer","26641","LGU Palo Municipal Agriculturist's Office","1001"
+"32","2022-01-10 11:43:06","2022-02-09 11:58:22","Unlad San Antonio Farmers Association","organization","San Antonio, Palo, Leyte","Name of President: Crispulo Hermosilla;
+Number of Members: 71;
+Status of the Association: Active","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"33","2022-01-10 11:44:14","2022-02-09 11:58:45","Cabarasan Daku Farmer Beneficiary Association","organization","Cabarasan Daku, Palo, Leyte","Name of President: Josefina Berdan;
+Number of Members: 18;
+Status of the Association: Active","producer","26476","LGU Palo Municipal Agriculturist's Office","996"
+"34","2022-01-10 11:46:17","2022-01-17 22:30:08","Guindag-an, San Antonio, Cabarasan Daku, Irrigators Association","organization","San Antonio, Palo, Leyte","Name of President: Diosdado Ryan L. Espelita;
+Contact Number: 09129914839;
+Number of Members: 173;
+Status of the Association: Active;
+DOLE Registration Number: CN201616344;
+Year Organized: 2016;
+Production Area: 2,964,690 sq.m","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"35","2022-01-10 11:48:18","2022-01-17 22:30:50","Castilla Integrated Farmers Association","organization","Castilla, Palo, Leyte","Name of President: Herminigildo L. Pulga;
+Contact Number: 09503733659;
+Number of Members: 41;
+Status of the Association: Active;
+DOLE Registration Number: RO800-NLFO-2020-01-WA-1803;
+Year Organized: 2020;
+Production Area: 826,000 sq.m","producer","26483","LGU Palo Municipal Agriculturist's Office","996"
+"36","2022-01-10 11:52:16","2022-01-17 22:31:46","Brgy. Guindapunan Fisherfolk Association","organization","Guindapunan, Palo, Leyte","Name of President: Rosalito G. Caidoy;
+Contact Number: 09925980324;
+Number of Members: 23;
+Status of the Association: Active;
+DOLE Registration Number: RO800-NLFO-14-11-RWA-128;
+Year Organized: 2014;
+Production Area: 1,500 sq.m","producer","26486","LGU Palo Municipal Agriculturist's Office","996"
+"37","2022-01-10 11:54:36","2022-01-17 22:34:18","Cogon Fisherfolk Association","organization","Cogon, Palo, Leyte","Name of President: Leonila Hernandez;
+Contact Number: 09056763135;
+Number of Members: 142;
+Status of the Association: Active;
+DOLE Registration Number: RO800-NLFO-14-11-RWA-615;
+Year Organized: 2014;
+Production Area: 1,600 sq.m","producer","26484","LGU Palo Municipal Agriculturist's Office","996"
+"38","2022-01-10 11:56:55","2022-01-17 22:36:17","Brgy. Baras Fisherfolk Association","organization","Baras, Palo, Leyte","Name of President: Ricky S. Pasacao;
+Contact Number: 09505981267;
+Number of Members: 32;
+Status of the Association: Active;
+DOLE Registration Number: RO800-NLFO-14-11-RWA-180;
+Year Organized: 2014","producer","26474","LGU Palo Municipal Agriculturist's Office","996"
+"39","2022-01-10 11:58:30","2022-01-17 22:38:19","Brgy. San Joaquin Farmers and Fisherfolk Association","organization","San Joaquin, Palo, Leyte","Name of President: Floro Acebedo;
+Number of Members: 27;
+Status of the Association: Inactive;
+DOLE Registration Number: RO800-NLFO-14-11-RWA-335;
+Year Organized: 2014","producer","26499","LGU Palo Municipal Agriculturist's Office","996"
+"40","2022-01-10 12:00:03","2022-01-17 22:41:27","Salvacion Aquaculture Fisherfolk Association","organization","Salvacion, Palo, Leyte","Name of President: Dante V. Nuñeza Jr;
+Contact Number: 09363253602;
+Number of Members: 26;
+Status of the Association: Active;
+DOLE Registration Number: On Process;
+Production Area: 1,200 sq.m","producer","26495","LGU Palo Municipal Agriculturist's Office","996"
+"41","2022-01-10 13:35:52","2022-01-17 22:44:01","Joshua Aldwin Fish Dealer","organization","Sabang South, City of Borongan (Capital), Eastern Samar","Contact Person: Edwin Juson;
+Contact Number: 09182683629;
+Business Registration Number: DTI 04847550; 
+Type: Trader;
+Service Units for Trading: Trucks","trader","24777","BFAR Regional Office VIII","946"
+"42","2022-01-10 13:50:02","2022-01-17 22:51:16","Mitch Marine Products","organization","Hollywood, Guiuan, Eastern Samar","Contact Person: Michelle Miralles;
+Contact Number: 09467013646;
+Business Registration Number: DTI 03570892;
+Type: Buying Station;
+Service Units for Trading: PUV","trader","24972","BFAR Regional Office VIII","951"
+"43","2022-01-10 13:52:31","2022-01-17 22:52:35","Jawid Fish Dealer","organization","Guiuan, Eastern Samar","Contact Person: Renato Jawid;
+Contact Number: 09064836357;
+Type: Trader;
+Service Units for Trading: PUV","trader",NULL,"BFAR Regional Office VIII","951"
+"44","2022-01-10 14:03:40","2022-01-17 22:53:27","Mikisa Fish Dealer","organization","Guiuan, Eastern Samar","Contact Person: Reynaldo Masangkay;
+Contact Number: 09161548193;
+Business Registration Number: DTI 04747342 and                                                       BIR 102-983-312;
+Type: Buying Station;
+Service Units for Trading: PUV","trader",NULL,"BFAR Regional Office VIII","951"
+"45","2022-01-10 14:06:16","2022-02-09 11:43:35","Tenpoint Manufacturing Corporation","organization","Barangay Poblacion 1, Maydolong, Eastern Samar","Contact Person: Jonathan Guasis;
+Contact Number: 09276647508;
+Type: Buying Station;
+Service Units for Trading: Reefer Van","trader","25074","BFAR Regional Office VIII","957"
+"46","2022-01-10 15:15:58","2022-01-17 22:48:35","Alfredo Guevara","individual","Cogon, Palo, Leyte","Production Area: 2,500 sq. m;
+Organization: Cogon Coconut Integrated Farming System Association","producer","26484","Palo Municipal Agriculturist's Office","996"
+"47","2022-01-10 15:17:32","2022-01-18 21:47:19","Edgard Montoya","individual","Cangumbang, Palo, Leyte","Production Area: 250 sq. m; 
+Organization: Cangumbang Agrarian Reform Cooperative","producer","26480","LGU Palo Municipal Agriculturist's Office","996"
+"48","2022-01-10 15:18:51","2022-02-09 11:53:02","Fedelito Portula","individual","Teraza, Palo, Leyte","Production Area: 50 sq. m;","producer","26503","LGU Palo Municipal Agriculturist's Office","996"
+"49","2022-01-10 15:19:57","2022-01-18 21:49:13","Gerry  Aragon","individual","Teraza, Palo, Leyte","Production Area: 100 sq. m; 
+Organization: Teraza Palayamanan Integrated Farmers Association","producer","26503","LGU Palo Municipal Agriculturist's Office","996"
+"50","2022-01-10 15:20:50","2022-01-18 21:50:25","Ronilo Palomeras","individual","Teraza, Palo, Leyte","Production Area: 200 sq. m;
+Organization: Gintong Samahan IA","producer","26503","LGU Palo Municipal Agriculturist's Office","996"
+"51","2022-01-10 15:22:41","2022-01-18 21:51:11","Ruel  Regis","individual","San Antonio, Palo, Leyte","Production Area: 300 sq. m; 
+Organization: St. Anthony Integrated Farmers Association","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"52","2022-01-10 15:23:43","2022-01-18 21:52:13","Lucrecia Regis","individual","San Antonio, Palo, Leyte","Production Area: 300 sq. m; 
+Organization: St. Anthony Integrated Farmers Association","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"53","2022-01-10 15:24:54","2022-01-18 21:53:01","Israel Regis","individual","San Antonio, Palo, Leyte","Production Area: 300 sq. m; 
+Organization: St. Anthony Integrated Farmers Association","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"54","2022-01-10 15:25:51","2022-01-18 21:53:54","Ramil Regis","individual","San Antonio, Palo, Leyte","Production Area: 300 sq. m;
+Organization: St. Anthony Integrated Farmers Association","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"55","2022-01-10 15:26:48","2022-01-18 22:07:42","Reniel Regis","individual","San Antonio, Palo, Leyte","Production Area: 300 sq. m; 
+Organization: St. Anthony Integrated Farmers Association","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"56","2022-01-10 15:28:16","2022-01-18 22:08:19","Rodrigo Regis, Jr.","individual","San Antonio, Palo, Leyte","Production Area: 300 sq. m; 
+Organization: St. Anthony Integrated Farmers Association","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"57","2022-01-10 15:29:09","2022-01-18 22:09:07","Raul Regis","individual","San Antonio, Palo, Leyte","Production Area: 300 sq. m; 
+Organization: St. Anthony Integrated Farmers Association","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"58","2022-01-10 15:30:16","2022-01-18 22:09:55","Rodel Regis","individual","San Antonio, Palo, Leyte","Production Area: 300 sq. m; 
+Organization: St. Anthony Integrated Farmers Association","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"59","2022-01-10 15:31:09","2022-01-18 22:10:36","Crispulo Hermosila","individual","San Antonio, Palo, Leyte","Production Area: 300 sq. m; 
+Organization: Unlad San Antonio Farmers Association","producer","26497","LGU Palo Municipal Agriculturist's Office","996"
+"60","2022-01-10 15:32:10","2022-01-18 22:22:23","Ditas Dela Pena","individual","Anahaway, Palo, Leyte","Production Area: 500 sq. m; 
+Organization: KASAGANAHAN Irrigators Association","producer","26472","LGU Palo Municipal Agriculturist's Office","996"
+"61","2022-01-10 15:33:12","2022-01-16 09:08:43","Ma. Jeannean Daloso","individual","Cabarasan Daku, Palo, Leyte","Production Area: 500 sq. m; 
+Organization: Cabarasan Daku Parents Agri-Farmers Association","producer","26476","Palo LGU Municipal Agriculturist's Office","996"
+"62","2022-01-10 15:34:32","2022-01-18 22:23:09","Martin Picorro","individual","Castilla, Palo, Leyte","Production Area: 500 sq. m; 
+Organization: Cangumbang Agrarian Reform Cooperative","producer","26483","LGU Palo Municipal Agriculturist's Office","996"
+"63","2022-01-10 15:35:35","2022-01-18 22:23:58","Roberto Dagami, Jr.","individual","Castilla, Palo, Leyte","Production Area: 500 sq. m; 
+Organization: Gintong Samahan IA","producer","26483","LGU Palo Municipal Agriculturist's Office","996"
+"64","2022-01-10 15:36:43","2022-01-18 22:24:44","Cesar N. Nilo","individual","Guindapunan, Palo, Leyte","Production Area: 20 sq.m; 
+Organization: Brgy. Guindapunan Fisherfolk Association","producer","26486","LGU Palo Municipal Agriculturist's Office","996"
+"65","2022-01-10 15:37:34","2022-01-18 22:25:41","Edwin Hernandez","individual","Guindapunan, Palo, Leyte","Production Area; 20 sq.m","producer","26486","LGU Palo Municipal Agriculturist's Office","996"
+"66","2022-01-10 15:38:12","2022-01-18 22:26:25","Edrelyn T. Mater","individual","San Isidro, Palo, Leyte","Production Area: 300 sq.m","producer","26498","LGU Palo Municipal Agriculturist's Office","996"
+"67","2022-01-11 08:42:17","2022-01-18 22:27:17","Bryan B. Negros","individual","Teraza, Palo, Leyte","Production Area: 300 sq. m","producer","26503","LGU Palo Municipal Agriculturist's Office","996"
+"68","2022-01-11 08:43:22","2022-01-19 17:23:43","Jusmias M. Carba","individual","Cabarasan Daku, Palo, Leyte","Production Area: 300 sq. m","producer","26476","LGU Palo Municipal Agriculturist's Office","996"
+"69","2022-01-11 08:45:04","2022-01-19 17:24:19","Maria Clara Canaleja","individual","Anahaway, Palo, Leyte","Production Area: 300 sq. m;
+Organization: KASAGANAHAN Irrigators Association","producer","26472","LGU Palo Municipal Agriculturist's Office","996"
+"70","2022-01-11 08:59:08","2022-01-19 17:25:00","Letecia Margallo","individual","Gacao, Palo, Leyte","Production Area: 300 sq. m","producer","26485","LGU Palo Municipal Agriculturist's Office","996"
+"71","2022-01-11 09:03:14","2022-01-19 17:25:29","Dean Moreno","individual","Libertad, Palo, Leyte","Production Area: 50 sq. m","producer","26487","LGU Palo Municipal Agriculturist's Office","996"
+"72","2022-01-11 09:03:14","2022-01-19 17:25:59","Edren Margallo","individual","Cavite East (Pob.), Palo, Leyte","Production Area: 300 sq. m","producer","26491","LGU Palo Municipal Agriculturist's Office","996"
+"73","2022-01-11 09:04:13","2022-01-19 17:26:34","Elmer Gumapac","individual","Candahug, Palo, Leyte","Production Area: 300 sq. m","producer","26479","LGU Palo Municipal Agriculturist's Office","996"
+"74","2022-01-11 09:07:04","2022-01-19 17:27:20","Virgilio Ladrera. Sr.","individual","Capirawan, Palo, Leyte","Production Area: 300 sq. m","producer","26482","LGU Palo Municipal Agriculturist's Office","996"
+"75","2022-01-11 09:09:16","2022-01-19 17:27:51","Evangeline Fabi","individual","Libertad, Palo, Leyte","Production Area: 300 sq. m","producer","26487","LGU Palo Municipal Agriculturist's Office","996"
+"76","2022-01-11 09:11:26","2022-01-19 17:28:50","Gil A. Galangue","individual","Naga-naga, Palo, Leyte","300 sq. m","producer","26488","LGU Palo Municipal Agriculturist's Office","996"
+"77","2022-01-11 09:14:40","2022-01-19 17:29:21","Gilbert Macanip","individual","Castilla, Palo, Leyte","Production Area: 300 sq. m;
+Organization: Palo Skilled Workers Integrated Farmers Association","producer","26483","LGU Palo Municipal Agriculturist's Office","996"
+"78","2022-01-11 09:15:51","2022-01-19 17:29:54","Rodel Esquierdo","individual","Campetik, Palo, Leyte","Production Area: 200 sq. m","producer","26478","LGU Palo Municipal Agriculturist's Office","996"
+"79","2022-01-11 09:18:15","2022-01-19 17:30:29","Margarito Pedrosa","individual","Cangumbang, Palo, Leyte","Production Area: 500 sq. m; 
+Organization: Triple C Irrirgators Association","producer","26480","LGU Palo Municipal Agriculturist's Office","996"
+"80","2022-01-11 09:22:10","2022-01-19 17:31:01","Jerry Picorro","individual","Campetik, Palo, Leyte","Production Area: 100 sq. m","producer","26478","LGU Palo Municipal Agriculturist's Office","996"
+"81","2022-01-11 09:23:25","2022-01-19 17:47:08","Orlando Maula","individual","Palo, Leyte","Production Area: 100 sq. m","producer",NULL,"LGU Palo Municipal Agriculturist's Office","996"
+"82","2022-01-11 09:25:07","2022-01-19 17:48:57","Pacifico Esquierdo","individual","Campetik, Palo, Leyte","Production Area: 100 sq. m","producer","26478","LGU Palo Municipal Agriculturist's Office","996"
+"83","2022-01-11 09:26:14","2022-01-19 17:50:00","Henry Esquierdo","individual","Campetik, Palo, Leyte","Production Area: 100 sq. m","producer","26478","LGU Palo Municipal Agriculturist's Office","996"
+"84","2022-01-11 09:27:39","2022-01-19 17:50:29","Francisco Molino","individual","Campetik, Palo, Leyte","Production Area: 100 sq. m","producer","26478","LGU Palo Municipal Agriculturist's Office","996"
+"85","2022-01-11 09:29:02","2022-01-19 17:51:05","Dentlin Armeno","individual","Castilla, Palo, Leyte","Production Area: 100 sq. m;
+Organization: Canossa Ville Integrated Home-Based Farmers Association","producer","26483","LGU Palo Municipal Agriculturist's Office","996"
+"86","2022-01-11 09:31:00","2022-01-19 17:54:11","Nikki Pataray","individual","Palo, Leyte","Production Area: 50 sq. m","producer",NULL,"LGU Palo Municipal Agriculturist's Office","996"
+"87","2022-01-11 09:31:59","2022-01-19 21:21:28","Ivy Lyn Nilo","individual","Guindapunan, Palo, Leyte","Production Area: 50 sq. m;
+Organization: Brgy. Guindapunan Fisherfolk Association","producer","26486","LGU Palo Municipal Agriculturist's Office","996"
+"88","2022-01-11 09:41:42","2022-01-19 21:22:06","Carolina Dumilon","individual","Libertad, Palo, Leyte","Production Area; 1000 sq. m","producer","26487","LGU Palo Municipal Agriculturist's Office","996"
+"89","2022-01-11 09:42:55","2022-01-19 21:22:48","Julius Atolle","individual","Cavite East (Pob.), Palo, Leyte","Production Area: 300 sq. m","producer","26491","LGU Palo Municipal Agriculturist's Office","996"
+"90","2022-01-11 09:43:54","2022-01-19 21:25:31","Tacuranga Farmers Association","organization","Tacuranga, Palo, Leyte","Name of President: Gerry P. Barbosa; 
+Contact Number: 09205178162; 
+Number of Members: 23; 
+Status of the Association: Active; 
+DOLE Registration Number: RO8-NLFO-2016-07-WA-972; 
+Year Organized: 2016;
+Production Facility: Peanut Grinder","processor","26502","LGU Palo Municipal Agriculturist's Office","996"
+"91","2022-01-11 09:43:54","2022-01-19 21:26:16","Joerald Jacobe","individual","Guindapunan, Palo, Leyte","Production Area: 50 sq. m","producer","26486","LGU Palo Municipal Agriculturist's Office","996"
+"92","2022-01-11 10:17:18","2022-01-19 21:27:16","Berlin Fish Dealer","organization","Sabang South, City of Borongan (Capital), Eastern Samar","Contact Person: Elena Uy;
+Contact Number: 09064411292;
+Type: Trader; 
+Service Units for Trading: Trucks","trader","24777","BFAR Regional Office VIII","946"
+"93","2022-01-11 10:20:40","2022-02-09 11:43:11","Gemma Mercado","individual","Barangay 13 (Pob.), Dolores, Eastern Samar","Contact Person: Gemma Mercado;
+Contact Number: 09395539781;
+Type: Trader","trader","24845","BFAR Regional Office VIII","948"
+"94","2022-01-11 10:22:27","2022-01-19 21:41:25","MJA Seafoods","organization","Sabang Zone II (Pob.), Allen, Northern Samar","Contact Person: Maricon Ablig; 
+Contact Number: 09398130484;
+Type: Trader;
+Service Units for Trading: Trucks","trader","26941","BFAR Regional Office VIII","1009"
+"95","2022-01-11 10:27:00","2022-01-19 21:42:09","RLE Seaside Marine Products Buying Station","organization","Kinabranan Zone II (Pob.), Allen, Northern Samar","Contact Person: Ramil J. Galias;
+Contact Number: 09087862646;
+Business Registration Number: DTI 04948780                            and BIR 416-865-560; 
+Type: Buying Station;
+Service Units for Trading: PUV","trader","26940","BFAR Regional Office VIII","1009"
+"96","2022-01-11 10:30:33","2022-01-19 21:46:17","Wel Marine Products","organization","Sabang Zone II (Pob.), Allen, Northern Samar","Contact Person: Ruel C. Cravantes; 
+Contact Number: 09504189146;
+Business Registration Number: DTI 03976851; 
+Type: Buying Station; 
+Service Units for Trading: Reefer Van","trader","26941","BFAR Regional Office VIII","1009"
+"97","2022-01-11 10:35:04","2022-01-19 21:47:22","Decolores Brothers","organization","City of Tacloban (Capital), Leyte","Contact Person: Mario Rodrigo;
+Type: Trader/Broker; 
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1004"
+"98","2022-01-11 10:38:27","2022-01-19 21:47:46","R.L. Fish Broker","organization","City of Catbalogan (Capital), Samar","Contact Person: Rosario Original;
+Contact Number: 09177147033;
+Business Registration Number: DTI 01937134 and                         BIR 180-470-036-000; 
+Type: Trader/Broker;
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"99","2022-01-11 10:42:21","2022-01-19 21:48:09","Fidel Fish Broker","organization","City of Catbalogan (Capital), Samar","Contact Person: Fidel Papuran; 
+Business Registration Number: DTI 04392563 and                              BIR 932-548-653;
+Type: Trader/Broker;
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"100","2022-01-11 10:45:48","2022-01-19 21:46:54","GL Fish Broker","organization","City of Catbalogan (Capital), Samar","Contact Person: Gregorio Latorre; 
+Contact Number: 09394496143 or 09355656051;
+Business Registration Number: DTI 04637054 and                                    BIR 426-697-518-000; 
+Type: Trader/Broker
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"101","2022-01-11 10:51:07","2022-01-19 21:39:46","Renato U. Haylo Fish Broker","organization","City of Catbalogan (Capital), Samar","Contact Person: Renato Haylo;
+Contact Number: 09286545628;
+Business Registration Number: DTI 03207206 and                                   BIR 932-592-472;
+Type: Trader/Broker;
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"102","2022-01-11 22:43:35","2022-01-19 21:39:20","DJ Fish Dealer","organization","City of Catbalogan (Capital), Samar","Contact Person: Olivia Panican; 
+Contact Number:  09186024383;
+Business Registration Number: DTI 04506369 and                         BIR 276-235-993; 
+Type: Trader/Fish Dealer; 
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"103","2022-01-11 22:45:33","2022-01-19 21:38:50","EA Fish Dealer","organization","City of Catbalogan (Capital), Samar","Contact Person: Edgar Arcales;
+Contact Number: 09287551960;
+Type: Fish Dealer; 
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"104","2022-01-11 22:47:22","2022-01-19 21:35:13","WD Fish Dealer","organization","City of Catbalogan (Capital), Samar","Contact Person: Winifredo Dacallos; 
+Contact Number: 09085585777; 
+Type: Fish Dealer; 
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"105","2022-01-11 22:49:21","2022-01-19 21:31:05","Bayaw Fish Dealer","organization","City of Catbalogan (Capital), Samar","Contact Person: Jason Romana; 
+Business Registration Number: DTI 03721769; 
+Type: Fish Dealer; 
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"106","2022-01-11 22:52:07","2022-01-19 21:30:33","Ricky Fish Dealer","organization","City of Catbalogan (Capital), Samar","Contact Person: Carina Papuran; 
+Business Registration Number: DTI 04392621 and             
+BIR 914-856-217; 
+Type: Fish Dealer;
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"107","2022-01-11 22:58:39","2022-01-19 21:30:12","G.A. Bolok","organization","City of Catbalogan (Capital), Samar","Contact Person: Amelina Labor Bolok; 
+Contact Number: 09568828997;
+Email Address: laborame@gmail.com;
+Business Registration Number: DTI 03548564 and                               BIR 270-972-333-000; 
+Type: Trader; 
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"108","2022-01-11 23:02:28","2022-01-19 21:29:48","Jocelyn Dried Fish","organization","City of Catbalogan (Capital), Samar","Contact Person: Jocelyn Milla Jacob; 
+Contact Number: 09508007739;
+Business Registration Number: DTI 05359794 and                                   BIR 700-312-608-000; 
+Type: Trader/Seller; 
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"109","2022-01-11 23:12:30","2022-01-19 21:28:10","Mely Store","organization","City of Catbalogan (Capital), Samar","Contact Person: Mely Villamor; 
+Contact Number: 09482294546;
+Business Registration Number: DTI 05591539 and                                                    BIR 921-707-243-002; 
+Type: Trader/Seller; 
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"110","2022-01-11 23:15:06","2022-01-19 21:27:51","Patoy Catbalogan Fish Drying","organization","City of Catbalogan (Capital), Samar","Contact Person: Alejandro Sabarre, Jr.; 
+Contact Number: 09154148603;
+Business Registration Number: DTI, BIR, Sanitary Permit, Mayor's Permit; 
+Type: Trader/Seller;
+Service Units for Trading: Trucks","trader",NULL,"BFAR Regional Office VIII","1037"
+"111","2022-01-11 23:17:58","2022-01-17 22:50:16","Angel Amores Dried Fish Store","organization","Guiuan, Eastern Samar","Contact Person: Mary Jane Necosia;
+Contact Number: 09974218586;
+Business Registration Number: SEC CS200607657,                                                                                       BIR 245-410-447-001, and                                       Business Permit 259; 
+Type: Consolidator;
+Service Units for Trading: PUV","trader",NULL,"BFAR Regional Office VIII","951"
+"112","2022-01-19 22:36:30","2022-02-09 11:41:42","Association of Tagpuro Farmers United for Progress","organization","Barangay 108, City of Tacloban (Capital), Leyte","DOLE Registration Number: RO800-NLFO-13-03-RWA-424;
+Number of Members: 120;
+Year Organized: 2013; 
+Address: Barangay Tagpuro;
+Name of President: Christopher Dela Cruz;
+Contact Number: 09971922028;
+Status of the Association: Active;
+Land Area: 179 ha.","producer","26690","Tacloban LGU City Agriculturist's Office","1004"
+"113","2022-01-19 23:17:57","2022-01-19 23:17:57","Sto. Niño Integrated Farmers Association","organization","Barangay 106, City of Tacloban (Capital), Leyte","DOLE Registration Number: RO800-NLFO-15-01-RWA-267; 
+Number of Members: 24;
+Year Organized: 2015;
+Name of President: Dominador R. Homerez, Jr;
+Contact Number: 09066266272;
+Status of the Association: Active;
+Land Area: 163.8 ha","producer","26688","Tacloban LGU Municipal Agriculturist's Office","1004"
+"114","2022-01-24 08:42:56","2022-01-24 08:42:56","Association of GE Palanog Farmers Integrated for Development","organization","Barangay 12, City of Tacloban (Capital), Leyte","Name of President: Helario A. Pirante; 
+Contact Number: 09067760627/09751531209;
+Number of Members: 25
+DOLE Registration Number: RO800-NLFO-15-03-RWA-303; 
+Year Organized: 2015;
+Land Area: 31 ha.;
+Status of Association: Active","producer","26691","Tacloban LGU City Agriculturist's Office","1004"
+"115","2022-01-24 08:47:23","2022-01-24 08:47:23","Association of Palanog 37-A Farmers Integrated for Advancement","organization","Barangay 37-A, City of Tacloban (Capital), Leyte","Name of President: Rogelia Ayon;
+Number of Members: 38;
+Status: Active; 
+DOLE Registration Number: RO800-NLFO-15-03-RWA-302; 
+Year Organized: 2015; 
+Production Area: 21 ha.","producer","26719","Tacloban LGU Municipal Agriculturist's Office","1004"
+"116","2022-01-24 08:51:23","2022-01-24 08:51:23","Caibaan Farmers Livelihood Association","organization","Barangay 95-A, City of Tacloban (Capital), Leyte","Number of Members: 40; Status: Active; DOLE Registration Number: RO800-NLFO-08-06-RWA___; Year Organized: 2008; Production Area: 16 ha.","producer","26807","Tacloban LGU City Agriculturist's Office","1004"
+"117","2022-01-24 08:55:12","2022-01-24 08:55:12","Palanog Farmers Beneficiaries Association","organization","Barangay 103, City of Tacloban (Capital), Leyte","President: Wilson T. Dupa; Contact Number: 09474598791; Number of Members: 60; Status: Active; DOLE Registration Number: RO800-NLFO-10-11-RWA-185; Year Organized: 2010; Production Area: 483.56 ha.","producer","26684","Tacloban LGU City Agriculturist's Office","1004"
+"118","2022-01-24 09:00:51","2022-01-24 09:00:51","Barangay 90 Fisherfolks Association","organization","Barangay 90, City of Tacloban (Capital), Leyte","President: Jingjing Caganon; Contact Number: 09494570688; Status: Active; DOLE Registration Number: DOLE-Registered; Production Area: 270 cu.m.","producer","26780","Tacloban LGU City Agriculturist's Office","1004"
+"119","2022-01-24 09:03:44","2022-01-24 09:03:44","Kadiwa Fisherfolks Association","organization","Barangay 52, City of Tacloban (Capital), Leyte","President: Dante Soriano; Contact Number: 09366033848; Number of Members: 33; Status: Active; DOLE Registration Number: R0800-NLFO-14-11-RWA-168; Year Organized: 2014; Production Area: 1,350 cu. m.","producer","26739","Tacloban LGU City Agriculturist's Office","1004"
+"120","2022-01-24 09:08:39","2022-01-24 09:08:39","Maligaya Agri-Business Association","organization","Jiabong, Samar","President: Oscar Acotim; Contact Number: 09385591939; Status: Active; Registration Number: Food safety accreditation/registration:
+1. FDA-LTO;
+2. HACCP/GMP/SSOP certification;
+3. Product shelflife;
+4. Nutrifacts;
+DOLE Registered, DTI Registered, Mayor's Business Permit; Year Organized: 2012","processor",NULL,"BFAR Regional Office VIII
+Maligaya Agri-Business Facebook Page: https://www.facebook.com/Maligaya-Agri-Business-Association-172700116616669/","1041"
+"121","2022-01-24 09:20:52","2022-01-24 09:21:38","Super JJED Food Processing","individual","Jiabong, Samar","Proprietor: Danilo G. Gabin; Contact Number; 09356195705/09215360492/danilo_gabin@yahoo.com; Status: Active; Registration Number: FDA Approved (FDA-LTO CFRR-RVIII-FM-1168)","processor",NULL,"BFAR Regional Office VIII
+Super JJED Food Processing FB Page: https://www.facebook.com/superjjed2003/","1041"
+"122","2022-01-31 15:00:20","2022-02-03 10:04:17","Carmela Food Product","organization","Jiabong, Samar","Status of the Association: Active; Registration Number: Food safety accreditation/registration:
+1. FDA-LTO
+2. HACCP/GMP/SSOP certification;","processor",NULL,"BFAR Regional Office VIII
+Carmela Food Product Facebook Page: Jiabong, Samar
+https://www.facebook.com/Carmela-Food-Product-1063466927034642/","1041"
+"123","2022-01-31 15:02:42","2022-01-31 15:02:42","MLS Tahong Food Products","individual","Jiabong, Samar","Status of the Association: Active; Registration Number: Food safety accreditation/registration:
+1. FDA-LTO
+2. HACCP/GMP/SSOP certification","processor",NULL,"BFAR Regional Office VIII","1041"
+"124","2022-01-31 15:05:26","2022-01-31 15:05:26","Motiong Women's Association","individual","Motiong, Samar","Name of President: Elisa Pelagio; Contact Number; 09973151417; Registration: DOLE Registered, DTI Registered, Mayor's Business Permit","processor",NULL,"BFAR Regional Office VIII
+Motion Women's Organization Facebook Page: https://www.facebook.com/Motiong-Womens-Association-100894372090000/","1044"
+"125","2022-02-03 10:11:09","2022-02-08 19:48:20","Barangay San Isidro Integrated Farmers' Association","organization","Barangay 105, City of Tacloban (Capital), Leyte","President: Cesar M. Mamites; Contact Number: 09067760127; Number of Members: 17; Status of the Association: Year Organized: 2015; Active; DOLE Registration Number: RO800-NLFO-15-03-RWA-304; Production Area: 69.23 ha","producer","26687","Tacloban LGU City Agriculturist's Office","1004"
+"126","2022-02-03 10:15:16","2022-02-03 10:15:16","Bagacay Integrated Farmers' Association","organization","Barangay 93, City of Tacloban (Capital), Leyte","President: Diosdado Yu; Contact Number: 09755361741; Number of Members: 19; Status of the Association: Active; DOLE Registration Number: RO800-NLFO-15-01-RWA-261; Year Organized: 2015; Production Area: 109.8 ha","producer","26783","Tacloban LGU City Agriculturist's Office","1004"
+"127","2022-02-03 10:22:42","2022-02-03 10:22:42","Cabalawan Integrated Farmers' Association","organization","Barangay 97, City of Tacloban (Capital), Leyte","President: Melbeth P. Monreal; Contact Number: 09957965090; Status: Active; DOLE Registration Number: RO800-NLFO-14-10-RWA-161; Number of Members: 24; Year Organized: 2014; Production Area: 61 ha","producer","26787","Tacloban LGU City Agriculturist's Office","1004"
+"128","2022-02-03 10:26:11","2022-02-09 11:44:04","Nagkaorosa San Roque Farmers Association","organization","Barangay 100, City of Tacloban (Capital), Leyte","President: Marciano A. Homeres, Jr.; Contact Number:	09687671123; Status: Active; Production Area: 431.12 ha; DOLE Registration Number: RO800-NLFO-11-11-RWA-239; Number of Members: 87; Year Organized: 2011","producer","26681","Tacloban LGU City Agriculturist's Office","1004"

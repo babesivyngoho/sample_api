@@ -1,0 +1,4 @@
+"id","created_at","updated_at","name","email","political_level","geographic_type","geographic_id"
+"1","2022-02-11 22:53:51","2022-02-11 22:53:51","Project sAPPat","jdultra@up.edu.ph","national",NULL,NULL
+"2","2022-02-11 22:56:39","2022-02-11 22:56:39","Department of Science and Technology RO 8","dost@dost8.com","regional","App\Models\Region","11"
+"3","2022-06-10 15:30:48","2022-06-10 15:30:48","Taft Eastern Samar  LGU","notreal@email.com","municipal","App\Models\Municipality","965"
