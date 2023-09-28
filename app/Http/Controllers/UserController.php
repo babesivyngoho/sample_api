@@ -39,7 +39,7 @@ class UserController extends Controller
     }
 
     public function login(Request $request){
-        /*
+        
         $this->validate($request, [
             'email' => 'required',
             'password' => 'required'
@@ -70,9 +70,9 @@ class UserController extends Controller
             
         } else {
             return response()->json(['status' => 'fail', 'message' => 'User does not exist!'], 401);
-        }*/
+        }
 
-        return response()->json(['status' => 'success'], 200);
+        //return response()->json(['status' => 'success'], 200);
 
     }
     
